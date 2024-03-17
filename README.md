@@ -1,29 +1,22 @@
-<!-- @format -->
+# LupUI Custom Component
 
-# React + TypeScript + Vite
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/LupUI-Custom-Component/blob/main/LICENSE)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+LupUI Custom Component is an open-source library that provides a collection of customizable UI components for web applications. It aims to simplify the process of building modern and responsive user interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Feature 1
+- Feature 2
+- Feature 3
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Installation
 
-- Configure the top-level `parserOptions` property like this:
+To use LupUI Custom Component in your project, you can either download the source code and include it manually, or install it via a package manager.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+### Manual Installation
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Download the latest release from the [releases](https://github.com/your-username/LupUI-Custom-Component/releases) page.
+2. Include the necessary CSS and JavaScript files in your project.
